@@ -1,1 +1,4 @@
-Onde vamos colocar tudo que estamos fazendo
+* Bruno Chagas
+* Luciana Fávero
+* Julivan Santos
+* Rodrigo Turini
