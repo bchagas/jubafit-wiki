@@ -1,4 +1,4 @@
-* [Bruno Chagas](/bruno-chagas)
-* Luciana Fávero
-* Julivan Santos
-* Rodrigo Turini
+* [Bruno Chagas](/Bruno-Chagas)
+* Luciana Fávero(/Luciana-Favero)
+* Julivan Santos(/Julivan-Santos)
+* Rodrigo Turini(/Rodrigo-Turini)
